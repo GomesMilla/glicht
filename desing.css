@@ -1,0 +1,22 @@
+#letra {
+    color: #08e425;
+}
+
+body {
+    background-color: gray;
+}
+
+div .edit-text {
+    font-size: 12px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-weight: 600;
+}
